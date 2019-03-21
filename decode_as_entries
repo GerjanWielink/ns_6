@@ -1,0 +1,7 @@
+# "Decode As" entries file for Wireshark 1.12.7.
+#
+# This file is regenerated each time "Decode As" preferences
+# are saved within Wireshark. Making manual changes should be safe,# however.
+decode_as_entry: ip.proto,253,(none),TCP
+# decode_as_entry: ipv6.nxt,253,(none),TCP
+gui.window_title: HENK
